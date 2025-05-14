@@ -1,0 +1,22 @@
+{
+  "name": "test123",
+  "version": "1.0.0",
+  "description": "a Jest + npm session",
+  "main": "src/index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sc2sad/test123.git"
+  },
+  "author": "Adam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sc2sad/test123/issues"
+  },
+  "homepage": "https://github.com/sc2sad/test123#readme"
+}
